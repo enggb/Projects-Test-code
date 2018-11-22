@@ -1,0 +1,45 @@
+{
+  "name": "E-controller",
+  "version": "1.0.0",
+  "description": "Cloud UI Server (CUIS) provides back-end support to web and mobile applications",
+  "main": "index.js",
+  "author": "Bhoopesh Singh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "chalk": "^2.1.0",
+    "colors": "^1.1.2",
+    "commander": "^2.13.0",
+    "express": "^4.16.3",
+    "express-device": "^0.4.2",
+    "fcm-push": "^1.1.3",
+    "formidable": "^1.1.1",
+    "google-url": "0.0.4",
+    "gridfs": "^1.0.0",
+    "http": "0.0.0",
+    "json-formatter-js": "^2.2.0",
+    "jsonminify": "^0.4.1",
+    "jsonwebtoken": "^7.4.3",
+    "md5": "^2.2.1",
+    "mkdirp": "^0.5.1",
+    "mongoose": "4.4.10",
+    "random-number": "0.0.9",
+    "readline-sync": "^1.4.7",
+    "request": "^2.81.0",
+    "sleep": "^5.1.1",
+    "uuid": "^3.2.1",
+    "ws": "^3.2.0",
+    "yamljs": "^0.3.0"
+  }
+}
